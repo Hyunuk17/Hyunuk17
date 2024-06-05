@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=220&text=Hyunuk's%20Github&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=60&fontColor=ffffff&desc=)
 
+## 😎 About Me
 
-## Hi there 👋
+
+## 📚 Tech Stack
+
 
 <!--
 **Hyunuk17/Hyunuk17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
