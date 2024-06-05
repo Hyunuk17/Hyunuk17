@@ -16,7 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=flat-square&logo=amazon%20ec2&logoColor=%23FFFFFF)
 ##### Collaborate
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=%23FFFFFF)
 
 ##### ETC...
@@ -26,6 +26,15 @@
 
 
 ## 📝 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunuk17&show_icons=true&theme=buefy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunuk17&layout=compact)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=problematic17)](https://solved.ac/problematic17)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunuk17&count_bg=%234E72C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 <!--
 **Hyunuk17/Hyunuk17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
