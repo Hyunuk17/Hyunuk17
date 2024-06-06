@@ -60,9 +60,7 @@
 
 ## 📝 Stats
 &nbsp; 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunuk17&show_icons=true&theme=buefy)
-
-&nbsp; 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunuk17&show_icons=true&theme=buefy&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunuk17&layout=compact)
 
 &nbsp; 
