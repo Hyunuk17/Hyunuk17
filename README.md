@@ -53,10 +53,7 @@
 ![Static Badge](https://img.shields.io/badge/Github%20Actions-%232088FF?style=flat-square&logo=github%20actions&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=Docker&logoColor=%23FFFFFF)
 
-
-
-
-
+<br/>
 
 ## 🙋🏻‍♂️ Activities
 
