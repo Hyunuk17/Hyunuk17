@@ -25,6 +25,7 @@
 #### _Used at least once..._
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=flat-square&logo=tailwind%20css&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=react&logoColor=%23FFFFFF)
