@@ -17,6 +17,7 @@
 &nbsp; 
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/MariaDB-%23003545?style=flat-square&logo=MariaDB&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=%23FFFFFF)
 
 #### _DevOps_
 &nbsp; 
@@ -46,7 +47,6 @@
 &nbsp; 
 ![Static Badge](https://img.shields.io/badge/Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=flat-square&logo=redis&logoColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=%23FFFFFF)
 <br/>
 &nbsp; 
 ![Static Badge](https://img.shields.io/badge/NginX-%23009639?style=flat-square&logo=NginX&logoColor=%23FFFFFF)
