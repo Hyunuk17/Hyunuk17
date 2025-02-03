@@ -30,7 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=%23FFFFFF)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=%23FFFFFF)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=Figma&logoColor=white)
 
 #### _Used at least once..._
 &nbsp; 
