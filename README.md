@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=220&text=Hyunuk's%20Github&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=60&fontColor=ffffff&desc=)
 
 ## 😎 About Me
-### _Introduction._ 매일 성장하는 개발자
+### _Introduction._ 성장하는 개발자 안현욱입니다.
 ### _Contact._ ![Static Badge](https://img.shields.io/badge/dksgusdnr17%40naver.com-%23FFFFFF?style=flat-square&logo=naver&logoColor=%2303C75A)
 <br/>
 
